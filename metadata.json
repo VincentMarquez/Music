@@ -1,0 +1,6 @@
+{
+  "name": "ScribeLyria Studio",
+  "description": "Transcribe audio and musical compositions from MP3 and MP4 files, extract lyrics, chords, tempo, and generate brand new music with Lyria 3.5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
